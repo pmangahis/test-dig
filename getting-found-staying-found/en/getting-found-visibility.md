@@ -2,6 +2,8 @@
 
 The success of your journal depends on developing a regular readership, who will become part of your scholarly community, cite your content in their own work, and tell others about the value of your publication. To do this, however, they will first need to be able to find you. This section examines a variety of ways to increase the “findability‟ of your journal through the use of commercial indexes, open databases, libraries, the media, professional networks, and professional recognition.
 
+**This is a test addition using HackMD**
+
 ## Journal Standards and Identifiers
 
 > Contributed by Roger Gillis
